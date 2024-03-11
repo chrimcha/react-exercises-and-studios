@@ -40,10 +40,14 @@
 .similarComponents {
   display:flex;
   justify-content:space-between;
+  margin-bottom: 100px;
 }
 
 .similarComponents2 {
   border: solid;
   box-sizing: border-box;
   width: 100%;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
 }

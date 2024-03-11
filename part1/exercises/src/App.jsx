@@ -11,6 +11,7 @@ function App() {
       <ChoresList />
       <div className="similarComponents">
         <MovieList />
+        <div></div>
         <BookList />
         <HobbyLinks />
       </div>
