@@ -39,5 +39,11 @@
 
 .similarComponents {
   display:flex;
-justify-content:space-between;
+  justify-content:space-between;
+}
+
+.similarComponents2 {
+  border: solid;
+  box-sizing: border-box;
+  width: 100%;
 }
