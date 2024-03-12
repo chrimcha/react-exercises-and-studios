@@ -3,12 +3,12 @@ import styles from './Description.module.css';
 
 function RecipeAuthor() {
     let authorLink = "https://www.maangchi.com/recipe/tteokbokki";
-    let authorPhoto = "https://www.maangchi.com/wp-content/themes/maangchi4/img/header/maangchi-mascot.svg";
+    let authorPhoto = "https://www.thespecialsaucepodcast.com/wp-content/uploads/2020/01/maang.jpg";
     let authorName = "Emily Kim, commonly known as Maangchi";
 
     return (
         <div className = {styles.recipeAuthorBlock}>
-            <img src={authorPhoto} alt = "Reasonable alt text" className={styles.imageUpdates} />
+            <img src={authorPhoto} alt = "Reasonable alt text" className={styles.authorImg} />
             <div>
                 <h3>{authorName}</h3>
                 <a href={authorLink} target='blank'>Recipe Blog Post</a> 
