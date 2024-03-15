@@ -13,6 +13,36 @@
        "heavy cream",
        "milk"
      ]
-   }
+   },
+   {
+    "name": "Taco Spaghetti",
+    "author": "Stephanie Melchione",
+    "description": "This Taco Spaghetti Recipe has the best of both worlds: Classic flavors of tacos combined with savory homestyle spaghetti. The ingredients in this recipe blend together perfectly for the best combination of flavors. Your family will want this meal every week!",
+    "website": "https://thecozycook.com/taco-spaghetti/",
+    "recipeImage": "https://thecozycook.com/wp-content/uploads/2023/07/Taco-Spaghetti-1.jpg",
+    "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+    "ingredients": [
+      "tomato sauce",
+      "chicken broth",
+      "half and half",
+      "Worcestershire sauce",
+      "mustard powder"
+    ]
+  },
+  {
+    "name": "Pizza Pasta",
+    "author": "Stephanie Melchione",
+    "description": "This Pizza Pasta is an easy dinner recipe that you can make ahead of time and refrigerate or freeze until ready to bake! Your family will love this cozy casserole!",
+    "website": "https://thecozycook.com/pizza-pasta/",
+    "recipeImage": "https://thecozycook.com/wp-content/uploads/2022/12/Pizza-Pasta-1-.jpg",
+    "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+    "ingredients": [
+      "ground beef",
+      "ground sausage",
+      "yellow onion",
+      "green bell pepper",
+      "beef broth"
+    ]
+  }
  ]
  
